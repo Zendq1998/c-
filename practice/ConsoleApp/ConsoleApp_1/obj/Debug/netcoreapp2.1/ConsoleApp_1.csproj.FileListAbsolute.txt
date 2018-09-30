@@ -1,0 +1,11 @@
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/bin/Debug/netcoreapp2.1/ConsoleApp_1.deps.json
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/bin/Debug/netcoreapp2.1/ConsoleApp_1.runtimeconfig.json
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/bin/Debug/netcoreapp2.1/ConsoleApp_1.runtimeconfig.dev.json
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/bin/Debug/netcoreapp2.1/ConsoleApp_1.dll
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/bin/Debug/netcoreapp2.1/ConsoleApp_1.pdb
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/obj/Debug/netcoreapp2.1/ConsoleApp_1.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/obj/Debug/netcoreapp2.1/ConsoleApp_1.AssemblyInfoInputs.cache
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/obj/Debug/netcoreapp2.1/ConsoleApp_1.AssemblyInfo.cs
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/obj/Debug/netcoreapp2.1/ConsoleApp_1.dll
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/obj/Debug/netcoreapp2.1/ConsoleApp_1.pdb
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/ConsoleApp/ConsoleApp_1/obj/Debug/netcoreapp2.1/ConsoleApp_1.csprojAssemblyReference.cache

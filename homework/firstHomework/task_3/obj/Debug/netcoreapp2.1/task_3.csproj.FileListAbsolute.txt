@@ -1,0 +1,10 @@
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/bin/Debug/netcoreapp2.1/task_3.deps.json
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/bin/Debug/netcoreapp2.1/task_3.runtimeconfig.json
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/bin/Debug/netcoreapp2.1/task_3.runtimeconfig.dev.json
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/bin/Debug/netcoreapp2.1/task_3.dll
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/bin/Debug/netcoreapp2.1/task_3.pdb
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/obj/Debug/netcoreapp2.1/task_3.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/obj/Debug/netcoreapp2.1/task_3.AssemblyInfoInputs.cache
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/obj/Debug/netcoreapp2.1/task_3.AssemblyInfo.cs
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/obj/Debug/netcoreapp2.1/task_3.dll
+/Users/a1/Documents/实验报告们/c#程序设计/1_homework/firstHomework/task_3/obj/Debug/netcoreapp2.1/task_3.pdb

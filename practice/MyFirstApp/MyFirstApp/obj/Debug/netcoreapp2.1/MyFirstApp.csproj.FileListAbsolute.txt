@@ -1,0 +1,11 @@
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.1/MyFirstApp.deps.json
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.1/MyFirstApp.runtimeconfig.json
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.1/MyFirstApp.runtimeconfig.dev.json
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.1/MyFirstApp.dll
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.1/MyFirstApp.pdb
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.1/MyFirstApp.csprojAssemblyReference.cache
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.1/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.1/MyFirstApp.AssemblyInfoInputs.cache
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.1/MyFirstApp.AssemblyInfo.cs
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.1/MyFirstApp.dll
+/Users/a1/Documents/实验报告们/c#程序设计/第一次作业/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.1/MyFirstApp.pdb
