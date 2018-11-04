@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{6CEE4E6A-422B-47E4-8179-E07D7B189B2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OopTest/Animal.cs">
+    <Files>
+      <File FileName="OopTest/Program.cs" Line="20" Column="47" />
+      <File FileName="OopTest/Animal.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OopTest" expanded="True" selected="True">
+            <Node name="OopTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OopTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

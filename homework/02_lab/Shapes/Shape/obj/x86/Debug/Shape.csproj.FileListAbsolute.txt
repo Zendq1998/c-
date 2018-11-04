@@ -1,0 +1,14 @@
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shapes/bin/Debug/ShapesInh.exe
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shapes/bin/Debug/ShapesInh.pdb
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shapes/obj/x86/Debug/ShapesInh.exe
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shapes/obj/x86/Debug/ShapesInh.pdb
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shape/obj/x86/Debug/ShapesInh.exe
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shape/obj/x86/Debug/ShapesInh.pdb
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shape/bin/Debug/ShapesInh.exe
+E:/2016年秋《C#》/实验课/实验课：shapes/第二次作业示例代码/Shapes/Shape/bin/Debug/ShapesInh.pdb
+/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/bin/Debug/ShapesInh.exe
+/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/bin/Debug/ShapesInh.pdb
+/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/obj/x86/Debug/Shape.csprojAssemblyReference.cache
+/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/obj/x86/Debug/Shape.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/obj/x86/Debug/ShapesInh.exe
+/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/obj/x86/Debug/ShapesInh.pdb

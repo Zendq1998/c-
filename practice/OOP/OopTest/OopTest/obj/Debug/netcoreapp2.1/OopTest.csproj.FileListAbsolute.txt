@@ -1,0 +1,11 @@
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/bin/Debug/netcoreapp2.1/OopTest.deps.json
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/bin/Debug/netcoreapp2.1/OopTest.runtimeconfig.json
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/bin/Debug/netcoreapp2.1/OopTest.runtimeconfig.dev.json
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/bin/Debug/netcoreapp2.1/OopTest.dll
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/bin/Debug/netcoreapp2.1/OopTest.pdb
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/obj/Debug/netcoreapp2.1/OopTest.csprojAssemblyReference.cache
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/obj/Debug/netcoreapp2.1/OopTest.csproj.CoreCompileInputs.cache
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/obj/Debug/netcoreapp2.1/OopTest.AssemblyInfoInputs.cache
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/obj/Debug/netcoreapp2.1/OopTest.AssemblyInfo.cs
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/obj/Debug/netcoreapp2.1/OopTest.dll
+/Users/a1/Documents/实验报告们/c_sharp_learning/practice/OOP/OopTest/OopTest/obj/Debug/netcoreapp2.1/OopTest.pdb

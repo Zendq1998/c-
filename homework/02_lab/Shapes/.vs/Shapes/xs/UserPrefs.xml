@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{4ED867FC-A638-41A5-9B57-5441E5C8A467}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shape/Point.cs">
+    <Files>
+      <File FileName="Shape/Circle.cs" Line="55" Column="32" />
+      <File FileName="Shape/TestMain.cs" Line="21" Column="9" />
+      <File FileName="Shape/Point.cs" Line="1" Column="1" />
+      <File FileName="Shape/Line.cs" Line="1" Column="1" />
+      <File FileName="Shape/Cylinder.cs" Line="7" Column="6" />
+      <File FileName="Shape/Parallelogram.cs" Line="1" Column="1" />
+      <File FileName="Shape/Triangle.cs" Line="1" Column="1" />
+      <File FileName="Shape/Trapaezoid.cs" Line="1" Column="1" />
+      <File FileName="Shape/Shape.cs" Line="29" Column="36" />
+      <File FileName="Shape/Rhombus.cs" Line="1" Column="1" />
+      <File FileName="Shape/Rectangle.cs" Line="1" Column="1" />
+      <File FileName="Shape/Quadrilateral.cs" Line="1" Column="1" />
+      <File FileName="Shape/Quadrate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shapes" expanded="True">
+            <Node name="Shape" expanded="True">
+              <Node name="Point.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Shape PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

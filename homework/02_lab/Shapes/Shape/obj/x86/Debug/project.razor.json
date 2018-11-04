@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/a1/Documents/实验报告们/c_sharp_learning/homework/02_lab/第二次作业示例代码/Shapes/Shape/Shape.csproj",
+  "TargetFramework": "v4.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
